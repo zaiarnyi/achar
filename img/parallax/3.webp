@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 80 80">
+<linearGradient id="linear-gradient">
+  <stop offset="0%" stop-color="#b6a1dc"/>
+  <stop offset="100%" stop-color="#f1eef8"/>
+  </linearGradient>
+<defs><clipPath id="30mha"><path fill="#fff" d="M40 0c22.091 0 40 17.909 40 40S62.091 80 40 80 0 62.09 0 40 17.91 0 40 0z"/></clipPath></defs><g><g opacity=".5"><path fill="none" stroke="url(#linear-gradient)" stroke-miterlimit="20" stroke-width="20" d="M40 0c22.091 0 40 17.909 40 40S62.091 80 40 80 0 62.09 0 40 17.91 0 40 0z" clip-path="url(&quot;#30mha&quot;)"/></g></g></svg>

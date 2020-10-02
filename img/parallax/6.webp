@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" viewBox="0 0 25 25">
+<linearGradient id="linear-gradient">
+  <stop offset="0%" stop-color="#f9a39d"/>
+  <stop offset="100%" stop-color="#fcd4d1"/>
+  </linearGradient>
+<defs><clipPath id="pgqsa"><path fill="#fff" d="M12.5 0C19.404 0 25 5.596 25 12.5S19.404 25 12.5 25 0 19.404 0 12.5 5.596 0 12.5 0z"/></clipPath></defs><g><g opacity=".5"><path fill="none" stroke="url(#linear-gradient)" stroke-miterlimit="20" stroke-width="12" d="M12.5 0C19.404 0 25 5.596 25 12.5S19.404 25 12.5 25 0 19.404 0 12.5 5.596 0 12.5 0z" clip-path="url(&quot;#pgqsa&quot;)"/></g></g></svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="54" height="41" viewBox="0 0 54 41"><defs>
+<linearGradient id="linear-gradient">
+  <stop offset="0%" stop-color="#c9e2ae"/>
+  <stop offset="100%" stop-color="#b4cc9d"/>
+  </linearGradient>
+<clipPath id="bcrga"><path fill="#fff" d="M0 41V0h54v41zM47.69 6L6 13.35l25.186 20.945z"/></clipPath></defs><g><g opacity=".5"><path fill="none" stroke="url(#linear-gradient)" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="20" stroke-width="12" d="M31.186 34.295v0L6 13.351v0L47.69 6v0z" clip-path="url(&quot;#bcrga&quot;)"/></g></g></svg>
